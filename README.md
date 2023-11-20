@@ -7,7 +7,9 @@ Business/Management Engineering
 
 ## Master's Degree:  
 Engineering Management
+
 University: Tsinghua University
+
 Thesis: "Cost Estimation and Project Performance Evaluation in Small Modular Reactor Projects by Using ML Algorithms"
 
 # 💼 Professional Background
@@ -17,7 +19,9 @@ I currently work in the Ministry of Energy and Natural Resources in Turkiye, whe
 My professional interests revolve around:
 
 Data Analysis: Unraveling insights from complex datasets.
+
 Machine Learning:  Exploring algorithms that drive intelligent decision-making.
+
 Artificial Intelligence:  Leveraging AI to solve real-world challenges.
 
 # 🌐 Connect with Me
