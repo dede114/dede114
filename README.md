@@ -20,11 +20,11 @@ I currently work in the Ministry of Energy and Natural Resources in Turkiye, whe
 # 🚀 What I'm passionate about
 My professional interests revolve around:
 
-  **-Data Analysis:** Unraveling insights from complex datasets.
+  **+ Data Analysis:** Unraveling insights from complex datasets.
 
-  **-Machine Learning:**  Exploring algorithms that drive intelligent decision-making.
+  **+ Machine Learning:**  Exploring algorithms that drive intelligent decision-making.
 
-  **-Artificial Intelligence:**  Leveraging AI to solve real-world challenges.
+  **+ Artificial Intelligence:**  Leveraging AI to solve real-world challenges.
 
 # 🌐 Connect with Me
 Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/halil-dede-68a003118) to discuss anything related to data science, machine learning, or artificial intelligence.
