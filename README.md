@@ -2,10 +2,10 @@
 I'm Halil, an engineering professional with a passion for leveraging data science and artificial intelligence to drive innovation in the energy sector. Here's a bit about my journey so far:
 
 # 🎓 Education
-## Bachelor's Degree:## 
+## Bachelor's Degree 
 Business/Management Engineering
 
-## Master's Degree: ## 
+## Master's Degree:  
 Engineering Management
 University: Tsinghua University
 Thesis: "Cost Estimation and Project Performance Evaluation in Small Modular Reactor Projects by Using ML Algorithms"
@@ -21,7 +21,7 @@ Machine Learning:  Exploring algorithms that drive intelligent decision-making.
 Artificial Intelligence:  Leveraging AI to solve real-world challenges.
 
 # 🌐 Connect with Me
-Let's connect and collaborate! Feel free to reach out to me on LinkedIn to discuss anything related to data science, machine learning, or artificial intelligence.
+Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/halil-dede-68a003118) to discuss anything related to data science, machine learning, or artificial intelligence.
 Linkedin: halil-dede-68a003118
 
 Looking forward to exploring and contributing to exciting projects together!
