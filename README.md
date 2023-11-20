@@ -21,7 +21,6 @@ Machine Learning:  Exploring algorithms that drive intelligent decision-making.
 Artificial Intelligence:  Leveraging AI to solve real-world challenges.
 
 # 🌐 Connect with Me
-Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/halil-dede-68a003118) to discuss anything related to data science, machine learning, or artificial intelligence.
-Linkedin: halil-dede-68a003118
+Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/halil-dede-68a003118) to discuss anything related to data science, machine learning, or artificial intelligence.
 
 Looking forward to exploring and contributing to exciting projects together!
